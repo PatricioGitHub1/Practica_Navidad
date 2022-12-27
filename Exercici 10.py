@@ -35,4 +35,4 @@ def order_list(llista, ordre="des"):
             print("ERROR | The list elements have to be all the same type")
 
 
-print(order_list([12, 2, 56, 6, 2, -1], "asc"))
+# print(order_list([12, 2, 56, 6, 2, -1], "asc"))

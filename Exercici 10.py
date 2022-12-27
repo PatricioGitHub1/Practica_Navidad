@@ -1,3 +1,5 @@
+# EXERCICI 10: Funcion para ordenar lista de forma descentende o ascendente
+
 def order_list(llista, ordre="des"):
     unkw_order = False
     try:

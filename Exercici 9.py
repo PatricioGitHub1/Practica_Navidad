@@ -1,4 +1,3 @@
-from les_meves_funcions import dades
 # EXERCICI 9: Exercici 9
 # Crearem una funció amb el nom print_item(id,**values). Que rebrà un id d’article i
 # opcionalment una sèrie de paràmetres del tipus clau=valor.
@@ -29,5 +28,3 @@ def print_item(id, **values):
         else:
             print("ERROR | One of the given parameters is not valid")
 
-
-print_item(2)

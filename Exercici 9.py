@@ -30,4 +30,4 @@ def print_item(id, **values):
             print("ERROR | One of the given parameters is not valid")
 
 
-# print_item(11)
+print_item(2)
